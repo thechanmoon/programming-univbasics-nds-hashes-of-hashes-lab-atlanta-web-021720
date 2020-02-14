@@ -43,6 +43,6 @@ def naming_system
   # HoH all the way to Species!
   return
   {
-      Kingdom : PORTION_1
+      :Kingdom => PORTION_1
   }
 end
