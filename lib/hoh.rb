@@ -44,5 +44,11 @@ def naming_system
   return
   {
       :Kingdom => PORTION_1
+      :Phylum
+      :Class
+      :Order
+      :Family
+      :Genus
+      :Species
   }
 end
