@@ -51,7 +51,7 @@ def naming_system
           sub_category: {
             label: "Order"
             sub_category: {
-              label: "Order"
+              label: "Family"
               }
             }
         }
