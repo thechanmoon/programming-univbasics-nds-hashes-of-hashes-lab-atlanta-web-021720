@@ -43,12 +43,12 @@ def naming_system
   # HoH all the way to Species!
   return
   {
-      :Kingdom  => PORTION_1
-      :Phylum   => {}
-      :Class    => {}
-      :Order    => PORTION_2
-      :Family   => PORTION_3
-      :Genus    => {}
-      :Species  => PORTION_4
+      :Kingdom  => PORTION_1,
+      :Phylum   => {},
+      :Class    => {},
+      :Order    => PORTION_2,
+      :Family   => PORTION_3,
+      :Genus    => {},
+      :Species  => PORTION_4,
   }
 end
