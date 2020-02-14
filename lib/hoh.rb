@@ -44,14 +44,11 @@ def naming_system
   return
   {
     label: "Kingdom",
-    sub_category: {
-      label: "Phylum",
       sub_category: {
-        label: "Class",
+        label: "Phylum",
         sub_category: {
-          label: "Order"
-          }
+          label: "Class"
+        }
       }
-    }
   }
 end
